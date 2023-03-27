@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1670522158 source:c:\users\asus\desktop\mpcpp\main.cpp
+	"Admin.h"
+	"Products.h"
+	"Seller.h"
+	"Interface.h"
+	"secret_code.h"
+	<conio.h>
+
+1670528750 c:\users\asus\desktop\mpcpp\admin.h
+	<cstring>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1670528772 source:c:\users\asus\desktop\mpcpp\admin.cpp
+	"Admin.h"
+
+1670528871 source:c:\users\asus\desktop\mpcpp\moderator.cpp
+	"Moderator.h"
+
+1670177852 source:c:\users\asus\desktop\mpcpp\products.cpp
+	"Products.h"
+
+1669397685 c:\users\asus\desktop\mpcpp\products.h
+	<cstring>
+	<iostream>
+	<fstream>
+
+1670535840 source:c:\users\asus\desktop\mpcpp\seller.cpp
+	"Seller.h"
+
+1670536009 c:\users\asus\desktop\mpcpp\seller.h
+	"secret_code.h"
+	"Admin.h"
+	"Products.h"
+
+1670535759 c:\users\asus\desktop\mpcpp\moderator.h
+	"Admin.h"
+	"Seller.h"
+
+1670535560 c:\users\asus\desktop\mpcpp\interface.h
+	<stdio.h>
+	<string>
+	"Admin.h"
+	"Moderator.h"
+	"Products.h"
+	"Seller.h"
+
+1669407951 source:c:\users\asus\desktop\mpcpp\interface.cpp
+	"Interface.h"
+
+1670338227 source:c:\users\asus\desktop\mpcpp\secret_code.cpp
+
+1670338540 c:\users\asus\desktop\mpcpp\secret_code.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1670528772 source:c:\users\asus\desktop\mini_projet_c++\mpcpp\admin.cpp
+	"Admin.h"
+
+1670528750 c:\users\asus\desktop\mini_projet_c++\mpcpp\admin.h
+	<cstring>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1670522158 source:c:\users\asus\desktop\mini_projet_c++\mpcpp\main.cpp
+	"Admin.h"
+	"Products.h"
+	"Seller.h"
+	"Interface.h"
+	"secret_code.h"
+	<conio.h>
+
+1669397685 c:\users\asus\desktop\mini_projet_c++\mpcpp\products.h
+	<cstring>
+	<iostream>
+	<fstream>
+
+1670536009 c:\users\asus\desktop\mini_projet_c++\mpcpp\seller.h
+	"secret_code.h"
+	"Admin.h"
+	"Products.h"
+
+1670338540 c:\users\asus\desktop\mini_projet_c++\mpcpp\secret_code.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1670535560 c:\users\asus\desktop\mini_projet_c++\mpcpp\interface.h
+	<stdio.h>
+	<string>
+	"Admin.h"
+	"Moderator.h"
+	"Products.h"
+	"Seller.h"
+
+1670535759 c:\users\asus\desktop\mini_projet_c++\mpcpp\moderator.h
+	"Admin.h"
+	"Seller.h"
+
+1670528871 source:c:\users\asus\desktop\mini_projet_c++\mpcpp\moderator.cpp
+	"Moderator.h"
+
+1670177852 source:c:\users\asus\desktop\mini_projet_c++\mpcpp\products.cpp
+	"Products.h"
+
+1670535840 source:c:\users\asus\desktop\mini_projet_c++\mpcpp\seller.cpp
+	"Seller.h"
+
+1670528772 source:c:\users\asus\desktop\mini_projet_c++\projet_c++\admin.cpp
+	"Admin.h"
+
+1670528750 c:\users\asus\desktop\mini_projet_c++\projet_c++\admin.h
+	<cstring>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1670522158 source:c:\users\asus\desktop\mini_projet_c++\projet_c++\main.cpp
+	"Admin.h"
+	"Products.h"
+	"Seller.h"
+	"Interface.h"
+	"secret_code.h"
+	<conio.h>
+
+1669397685 c:\users\asus\desktop\mini_projet_c++\projet_c++\products.h
+	<cstring>
+	<iostream>
+	<fstream>
+
+1670536009 c:\users\asus\desktop\mini_projet_c++\projet_c++\seller.h
+	"secret_code.h"
+	"Admin.h"
+	"Products.h"
+
+1670338540 c:\users\asus\desktop\mini_projet_c++\projet_c++\secret_code.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1670535560 c:\users\asus\desktop\mini_projet_c++\projet_c++\interface.h
+	<stdio.h>
+	<string>
+	"Admin.h"
+	"Moderator.h"
+	"Products.h"
+	"Seller.h"
+
+1670535759 c:\users\asus\desktop\mini_projet_c++\projet_c++\moderator.h
+	"Admin.h"
+	"Seller.h"
+
+1670528871 source:c:\users\asus\desktop\mini_projet_c++\projet_c++\moderator.cpp
+	"Moderator.h"
+
+1670177852 source:c:\users\asus\desktop\mini_projet_c++\projet_c++\products.cpp
+	"Products.h"
+
+1670535840 source:c:\users\asus\desktop\mini_projet_c++\projet_c++\seller.cpp
+	"Seller.h"
+
